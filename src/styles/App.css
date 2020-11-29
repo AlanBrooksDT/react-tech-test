@@ -1,0 +1,13 @@
+.App {
+  flex-direction: column;
+}
+
+.search-image {
+
+  display: block;
+  height: 50vw;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+  
+};
